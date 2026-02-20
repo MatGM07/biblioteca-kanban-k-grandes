@@ -10,11 +10,11 @@ Este repositorio corresponde a la fase de planeación inicial del proyecto, cuyo
 
 ##Objetivos
 
-###Objetivo General
+##Objetivo General
 
 Planificar el desarrollo de un Sistema de Gestión de Biblioteca Universitaria utilizando la metodología Kanban para la organización y seguimiento de tareas.
 
-###Objetivos Específicos
+##Objetivos Específicos
 
 Definir los requerimientos funcionales principales del sistema.
 
